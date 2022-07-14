@@ -1,5 +1,5 @@
 # goquery
-A Go library for queries on different game servers
+A Go library to queries on different game servers
 
 ## Usage
 ```go
